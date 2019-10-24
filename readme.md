@@ -1,13 +1,18 @@
-# PAYFASTJS
-
-<img style="max-width: 100%; margin: 0 auto" src="./assets/NodeFast.png">
+<p style="text-align: center;">
+  <img style="max-width: 100%;" src="./assets/NodeFast.png">
+</p>
 
 A Node.js implementation of [PayFast's](https://www.payfast.co.za) API. An effort to present the data returned in a JS friendly way and abstract some of PayFast's intricate request payloads.
 
 ## Getting started
 
 ```bash
-git clone https://github.com/Eckhardt-D/payfastjs.git
+npm i @eckidevs/payfastjs
+```
+or
+
+```bash
+yarn add @ckidevs/payfastjs
 ```
 
 ## Usage
