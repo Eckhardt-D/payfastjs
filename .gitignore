@@ -1,2 +1,3 @@
+tests/example*
 node_modules/
 .env
