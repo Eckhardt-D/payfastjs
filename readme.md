@@ -12,7 +12,7 @@ npm i @eckidevs/payfastjs
 or
 
 ```bash
-yarn add @ckidevs/payfastjs
+yarn add @eckidevs/payfastjs
 ```
 
 ## Usage
